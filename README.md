@@ -8,3 +8,8 @@ of object detection for cluttered objects. We also demonstrate the efficacy of t
 
 ## Dataset
 The proposed cluttered dataset can be downloaded from [here](https://drive.google.com/drive/folders/1y0z0FfLLCatNrM4dgZJISOZ9noUQcXZ3?usp=drive_link)
+
+## Description of files
+* TRAIN_YOLOv5.ipynb: For reproducing one-stage (i.e., YOLO-V5) object detector results.
+* faster_rcnn_Detectron2.ipnyb: For reproducing two-stage (i.e., Faster R-CNN) object detector results.
+* SoftTeacher: se readme.txt of original [repo](https://github.com/microsoft/SoftTeacher) for reproducing semi-supervised model results using our dataset. 
